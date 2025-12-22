@@ -1,0 +1,3 @@
+edits:
+  game_combat_execute_start_sound__header: Execute start sound
+  game_combat_execute_start_sound__text: Play sound when execute button is clicked.
