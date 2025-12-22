@@ -1,0 +1,18 @@
+priority: 0
+colorHue: 0.5
+id: dev.echkode.pbmods.silentstart
+ver: 1.0
+url: 
+includesConfigOverrides: true
+includesConfigEdits: false
+includesConfigTrees: false
+includesLibraries: true
+includesTextures: false
+includesLocalizationEdits: true
+includesLocalizations: false
+includesAssetBundles: false
+gameVersion2Compatible: false
+gameVersionMin: 2.0
+gameVersionMax: 
+name: Silent Start
+desc: Mutes the sound played when the execute button is clicked.
