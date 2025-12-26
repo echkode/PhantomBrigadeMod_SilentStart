@@ -33,12 +33,9 @@
         <WarningLevel>4</WarningLevel>
     </PropertyGroup>
     <PropertyGroup>
-        <GameVersion>2_1_0</GameVersion>
-        <GameStore>Steam</GameStore>
-        <LocalDLLsPath>../../../w/Game/$(GameVersion)/$(GameStore)/Managed</LocalDLLsPath>
         <SteamInstallationPath>C:\Program Files (x86)\Steam\steamapps\common\Phantom Brigade</SteamInstallationPath>
         <EpicInstallationPath>C:\Program Files\Epic Games\PhantomBrigade</EpicInstallationPath>
-        <ReferencePath>$(LocalDLLsPath);$(SteamInstallationPath)\PhantomBrigade_Data\Managed;$(EpicInstallationPath)\PhantomBrigade_Data\Managed</ReferencePath>
+        <ReferencePath>$(SteamInstallationPath)\PhantomBrigade_Data\Managed;$(EpicInstallationPath)\PhantomBrigade_Data\Managed</ReferencePath>
     </PropertyGroup>
     <ItemGroup>
         <Reference Include="0Harmony">
