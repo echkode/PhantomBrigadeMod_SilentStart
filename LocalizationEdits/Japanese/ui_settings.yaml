@@ -1,0 +1,3 @@
+edits:
+  game_combat_execute_start_sound__header: 実行開始の効果音
+  game_combat_execute_start_sound__text: 実行ボタンをクリックしたときに効果音を鳴らします。
