@@ -1,7 +1,7 @@
 priority: 0
 colorHue: 0.5
 id: dev.echkode.pbmods.silentstart
-ver: 1.0
+ver: 1.1
 url: 
 includesConfigOverrides: true
 includesConfigEdits: false

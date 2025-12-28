@@ -1,6 +1,27 @@
 workshop: 
 configEdits: 
-textEdits: 
+textEdits:
+  languages:
+    English:
+      sectors:
+        ui_settings:
+          text:
+            game_combat_execute_start_sound__header:
+              text: Execute start sound
+              textSource: 
+            game_combat_execute_start_sound__text:
+              text: Play sound when execute button is clicked.
+              textSource: 
+    Japanese:
+      sectors:
+        ui_settings:
+          text:
+            game_combat_execute_start_sound__header:
+              text: 実行開始の効果音
+              textSource: 
+            game_combat_execute_start_sound__text:
+              text: 実行ボタンをクリックしたときに効果音を鳴らします。
+              textSource: 
 assetBundles: 
 libraryDLLs:
   files:
